@@ -1,3 +1,3 @@
-module github.com/mr-tron/papers
+module github.com/ave-marinchen/papers
 
 go 1.13
